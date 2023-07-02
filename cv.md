@@ -3,7 +3,7 @@ First task, Ali Kermani, Markdown &amp; Git
 First name: Ali, Last name: Kermani, 
 Email: alikermani1959@gmail.com, Telegram id:  @AliK2134, Phone number: +989930243006
 I studied electronics and having studying and working with different microcontrollers, but I got interested in android developing last year and started learning last year, but I focused on ARM lately. I would like to learn new things and apply them in my projects.
-Skills: AVR microcontrollers, ARM microcontrollers, Android Studio, Matlab, Labview, Altium disgner, Proteus
+Skills: AVR microcontrollers, ARM microcontrollers, Android Studio, Matlab, Labview, Altium disgner, Proteus, Python
 Code example:
 #include "lpc17xx_gpio.h"
 const uint8_t segmentTable[]={0x3F,0x06,0x5B,0x4F,0x66,0x6D,0x7D,0x07,0x7F,0x6F};
