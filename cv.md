@@ -32,6 +32,8 @@ GPIO_SetDir(0,(1<<16),0);
 GPIO_ClearValue(0,(1<<3));
 GPIO_SetValue(0,(1<<2));
 GPIO_SetValue(0,(1<<1));
+GPIO_SetValue(0,(1<<4));
+
 
 
 while(1)
