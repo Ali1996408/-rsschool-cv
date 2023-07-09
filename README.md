@@ -1,3 +1,3 @@
 
 
-https://Ali199640.github.io/rsschool-cv/
+https://ali199640.github.io/rsschool-cv/
