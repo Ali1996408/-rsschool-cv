@@ -1,3 +1,3 @@
 
 
-https://Ali199640/)https://GITHUB-USERNAME.github.io/rsschool-cv/
+https://Ali199640.github.io/rsschool-cv/
